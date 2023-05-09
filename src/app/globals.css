@@ -25,3 +25,10 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+body :focus {
+  outline: none;
+}
+
+.labelName {
+  padding: 10px 0;
+}
